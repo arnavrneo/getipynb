@@ -1,4 +1,4 @@
-![image info](./pictures/image.png)
+![image info](./pictures/ipy_banner.png)
 # IPy - A python module to convert .py to .ipynb
 
 IPy is a python module which aims to solve the very common problem of opening .py files in jupyter notebook in an executable form. It ends the problem of copy and pasting the whole of your .py code into the jupyter notebooks.
